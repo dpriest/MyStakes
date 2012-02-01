@@ -2,6 +2,8 @@
 
 MyStakes Alpha
 
+2012/2/1
+
 ## 介绍
 
 MyStakes是一个团队协作平台,利用MyStakes:
