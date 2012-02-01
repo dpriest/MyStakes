@@ -2,17 +2,17 @@
 
 MyStakes Alpha
 
-## ����
+## 介绍
 
-MyStakes��һ���Ŷ�Э��ƽ̨,����MyStakes:
+MyStakes是一个团队协作平台,利用MyStakes:
 
-* ����Ϊ������Ŀ����һ��������֯��Ա��С��,��Ŀ��������Ϊprivate����public
+* 可以为您的项目创建一个用于组织成员的小组,项目可以设置为private或者public
 
-* ��Ŀ��Ա�ǿ���Ϊ�Լ��޸ķ���õ�����,���Ҹ��������չ
+* 项目成员们可以为自己修改分配得的任务,并且更新任务进展
 
-* ���Ը�ֱ�۷���ػ�֪��������Ŀ�Ľ�չ���
+* 可以更直观方便地获知您所在项目的进展情况
 
-##�õ��ļ���
+##用到的技术
 
 * [python](http://www.python.org)
 
@@ -20,7 +20,7 @@ MyStakes��һ���Ŷ�Э��ƽ̨,����MyStakes:
 
 * Javascript,CSS
 
-##��Ŀ��Ա
+##项目成员
 
 * [djyde](https://github.com/djyde)
 
@@ -30,8 +30,8 @@ MyStakes��һ���Ŷ�Э��ƽ̨,����MyStakes:
 
 * [dpriest](https://github.com/dpriest)
 
-##����Ҳ��Ҫ
+##我们也需要
 
-* ǰ�˿�����Ա
+* 前端开发人员
 
-* web.py��˳���Ա
+* web.py后端程序员
