@@ -6,7 +6,7 @@ MyStakes Alpha
 
 ## 介绍
 
-MyStakes是一个团队协作平台,利用MyStakes:
+MyStakes是一个团队协作平台网站,利用MyStakes:
 
 * 可以为您的项目创建一个用于组织成员的小组,项目可以设置为private或者public
 
