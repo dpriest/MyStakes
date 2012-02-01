@@ -37,3 +37,7 @@ MyStakes是一个团队协作平台,利用MyStakes:
 * 前端开发人员
 
 * web.py后端程序员
+
+* 若要加入,请联系email:djyde520@gmail.com
+* QQ:271259864
+* 微博:http://weibo.com/djyde
