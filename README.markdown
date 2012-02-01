@@ -22,7 +22,7 @@ MyStakes是一个团队协作平台,利用MyStakes:
 
 * Javascript,CSS
 
-##项目成员
+##现有项目成员
 
 * [djyde](https://github.com/djyde)
 
