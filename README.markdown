@@ -61,4 +61,3 @@ MyStakes是一个团队协作平台网站,利用MyStakes:
 * QQ:271259864
 * QQ Group:95208296
 * 微博:http://weibo.com/djyde
-* dpriest test
