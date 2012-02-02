@@ -21,6 +21,7 @@ MyStakes是一个团队协作平台网站,利用MyStakes:
 * [web.py](http://www.webpy.org)
 
 * Javascript,CSS
+* [MySQL](http://www.mysql.com)
 
 ##现有项目成员
 
