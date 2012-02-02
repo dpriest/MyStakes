@@ -6,7 +6,7 @@ MyStakes Alpha
 
 ## 介绍
 
-MyStakes是一个团队协作平台,利用MyStakes:
+MyStakes是一个团队协作平台网站,利用MyStakes:
 
 * 可以为您的项目创建一个用于组织成员的小组,项目可以设置为private或者public
 
@@ -21,8 +21,9 @@ MyStakes是一个团队协作平台,利用MyStakes:
 * [web.py](http://www.webpy.org)
 
 * Javascript,CSS
+* [MySQL](http://www.mysql.com)
 
-##项目成员
+##现有项目成员
 
 * [djyde](https://github.com/djyde)
 
@@ -37,3 +38,7 @@ MyStakes是一个团队协作平台,利用MyStakes:
 * 前端开发人员
 
 * web.py后端程序员
+
+* 若要加入,请联系email:djyde520@gmail.com
+* QQ:271259864
+* 微博:http://weibo.com/djyde
