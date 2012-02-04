@@ -6,4 +6,4 @@ class index:
 
     def GET(self):
         i = web.input(name = 'web')
-        return  settings.render.index()
+        return  settings.render.index("MyStakes")

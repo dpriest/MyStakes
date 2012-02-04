@@ -1,27 +1,40 @@
+#coding=utf-8
+import sys
 from config import settings
+from model import sign
 from web import form
 
-number_form = form.Form(
-        form.Textbox('number',
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+login = form.Form(
+        form.Textbox('username',
             form.notnull,
-            form.regexp('^-?\d+$', 'Not a number.'),
-            form.Validator('Not greater 10.', lambda x: int(x)>10),
-            description='Enter a number greater 10:'))
+            description="帐号:",
+            ),
+        form.Password('password',
+            form.notnull,
+            description="密码:",
+            ),
+        form.Button('Login'),
+        )
 
 
 class signin:
 
     def GET(self):
-        my_form = number_form()
-        return settings.render.signin(my_form)
+        my_form = login()
+        return settings.render.signin("MyStakes", my_form)
 
     def POST(self):
-        my_form = number_form()
+        my_form = login()
         if not my_form.validates():
-            return settings.render.signin(my_form)
+            return settings.render.signin("MyStakes", my_form)
         else:
-            number = my_form['number'].value
-            if int(number) % 2:
-                return "odd"
+            username = my_form['username'].value
+            password = my_form['password'].value
+            signin = sign.sign()
+            if (signin.login(username, password)):
+                return "登陆成功"
             else:
-                return "even"
+                return "登陆失败"
