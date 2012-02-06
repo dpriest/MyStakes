@@ -1,5 +1,7 @@
-pre_fix='controller.glob.'
+pre_glob='controller.glob.'
+pre_task='controller.task.'
 
 urls=(
-	"/",pre_fix+"index",
+	"/",pre_glob+"index",
+	"/tasks/?",pre_task+"signin",
 )
