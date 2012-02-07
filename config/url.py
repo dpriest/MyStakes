@@ -2,6 +2,7 @@ pre_glob='controller.glob.'
 pre_task='controller.task.'
 
 urls=(
-	"/",pre_glob+"index",
-	"/tasks/?",pre_task+"signin",
+	"/", pre_glob+"index",
+	"/tasks/?", pre_task+"signin",
+	"/tasks/register", pre_task+"register",
 )
